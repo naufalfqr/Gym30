@@ -9,21 +9,21 @@
           <div class="box">
             <i class='bx bxs-id-card cart' ></i>
             <div class="left-side">
-              <div class="number">0</div>
+              <div class="number">21</div>
               <div class="box-topic">Total Member</div>
             </div>
           </div>
           <div class="box">
             <i class='bx bx-run cart' ></i>
             <div class="left-side">
-              <div class="number">0</div>
+              <div class="number">55</div>
               <div class="box-topic">Total Booking</div>
             </div>
           </div>
           <div class="box">
             <i class='bx bx-dumbbell cart' ></i>
             <div class="left-side">
-              <div class="number">0</div>
+              <div class="number">15</div>
               <div class="box-topic">Total Class</div>
             </div>
           </div>
@@ -48,14 +48,32 @@
               </tr>
               <tr>
                 <td>2</td>
-                <td>Yoga</td>
+                <td>Boxing</td>
                 <td>Offline</td>
                 <td>10</td>
               </tr>
               <tr>
                 <td>3</td>
-                <td>Yoga</td>
+                <td>Muaythai</td>
                 <td>Offline</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Pilates</td>
+                <td>online</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Cardio</td>
+                <td>online</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Relaxtion and clamness</td>
+                <td>online</td>
                 <td>10</td>
               </tr>
             </table>
