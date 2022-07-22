@@ -17,6 +17,70 @@
                 <th>Status</th>
                 <th>Action</th>
               </tr>
+              <tr>
+                <td>1</td>
+                <td>Alex</td>
+                <td>Silver</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Johnny</td>
+                <td>Bronze</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Indra</td>
+                <td>Silver</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Aditya</td>
+                <td>Gold</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Michael</td>
+                <td>Gold</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Mayers</td>
+                <td>Bronze</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>7</td>
+                <td>Dudung</td>
+                <td>Bronze</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>8</td>
+                <td>Dadang</td>
+                <td>Bronze</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
             </table>
           </div>
           page 1 of 2
