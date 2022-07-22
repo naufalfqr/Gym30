@@ -17,6 +17,54 @@
                 <th>Status</th>
                 <th>Action</th>
               </tr>
+              <tr>
+                <td>1</td>
+                <td>Alex</td>
+                <td>Yoga</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Johnny</td>
+                <td>Boxing</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Indra</td>
+                <td>Muaythai</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Aditya</td>
+                <td>Zumba</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Michael</td>
+                <td>Yoga</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Mayers</td>
+                <td>Yoga</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
             </table>
           </div>
           page 1 of 2
