@@ -17,6 +17,30 @@
                 <th>Article Content</th>
                 <th>Action</th>
               </tr>
+              <tr>
+              <td>1</td>
+              <td></td>
+              <td>How to Bulking</td>
+              <td>03-06-2022</td>
+              <td></td>
+              <td></td>
+              </tr>
+              <tr>
+              <td>2</td>
+              <td></td>
+              <td>Tips Great Running</td>
+              <td>03-06-2022</td>
+              <td></td>
+              <td></td>
+              </tr>
+              <tr>
+              <td>3</td>
+              <td></td>
+              <td>Push up Tips</td>
+              <td>03-06-2022</td>
+              <td></td>
+              <td></td>
+              </tr>
             </table>
           </div>
           page 1 of 2
