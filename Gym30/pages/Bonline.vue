@@ -3,10 +3,10 @@
       <v-row class="bgsd">
         <NDraw />
         </v-row>
-      <h1>Manage Online Booking</h1>
+      <h1>Manage Offline Booking</h1>
       <div class="cont">
         <v-card>
-          <h2>List Online Booking</h2>
+          <h2>List Offline Booking</h2>
           <div class="tbl-cont">
             <table class="tbl">
               <tr>
@@ -16,6 +16,54 @@
                 <th>Date</th>
                 <th>Status</th>
                 <th>Action</th>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>Alex</td>
+                <td>Yoga</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Johnny</td>
+                <td>Boxing</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Indra</td>
+                <td>Muaythai</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Aditya</td>
+                <td>Zumba</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Michael</td>
+                <td>Yoga</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Mayers</td>
+                <td>Yoga</td>
+                <td>08-06-2022</td>
+                <td></td>
+                <td></td>
               </tr>
             </table>
           </div>
