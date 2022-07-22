@@ -19,6 +19,56 @@
                 <th>Description</th>
                 <th>Action</th>
               </tr>
+              <tr>
+                <td>1</td>
+                <td>Yoga</td>
+                <td>Gymstudio</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Boxing</td>
+                <td>Gymstudio</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Muaythai</td>
+                <td>Gymstudio</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Strenght</td>
+                <td>Gymstudio</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Zumba</td>
+                <td>Gymstudio</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
+              </tr>
             </table>
           </div>
           page 1 of 2
@@ -38,6 +88,56 @@
                 <th>Trainer</th>
                 <th>Description</th>
                 <th>Action</th>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>Yoga</td>
+                <td>Youtube</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Boxing</td>
+                <td>Zoom</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Muaythai</td>
+                <td>Zoom</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Strenght</td>
+                <td>Zoom</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Zumba</td>
+                <td>Zoom</td>
+                <td>10 orang</td>
+                <td>03-06-2022</td>
+                <td>none</td>
+                <td></td>
+                <td></td>
               </tr>
             </table>
           </div>
